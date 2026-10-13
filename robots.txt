@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+Sitemap: https://haeneul.pages.dev/sitemap.xml
+Sitemap: https://haeneul.pages.dev/sitemap-hub.xml
+Sitemap: https://haeneul.pages.dev/rss.xml
